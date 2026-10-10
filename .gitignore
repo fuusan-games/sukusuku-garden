@@ -1,0 +1,7 @@
+screenshots/
+research/
+*.log
+node_modules/
+.DS_Store
+tools/*.out
+test/*.out

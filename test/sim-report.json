@@ -1,0 +1,258 @@
+[
+ {
+  "name": "2人 normal vs weak",
+  "games": 2000,
+  "rate": {
+   "normal": {
+    "win": 72.7,
+    "seats": 1
+   },
+   "weak": {
+    "win": 27.3,
+    "seats": 1
+   }
+  },
+  "fair": 50,
+  "firstPlayerWin": 50.9,
+  "deckEndPct": 19.5,
+  "sec": 5.2
+ },
+ {
+  "name": "2人 strong vs weak",
+  "games": 2000,
+  "rate": {
+   "strong": {
+    "win": 84.1,
+    "seats": 1
+   },
+   "weak": {
+    "win": 15.9,
+    "seats": 1
+   }
+  },
+  "fair": 50,
+  "firstPlayerWin": 50.6,
+  "deckEndPct": 5.2,
+  "sec": 8.2
+ },
+ {
+  "name": "2人 ultra vs weak",
+  "games": 400,
+  "rate": {
+   "ultra": {
+    "win": 89.5,
+    "seats": 1
+   },
+   "weak": {
+    "win": 10.5,
+    "seats": 1
+   }
+  },
+  "fair": 50,
+  "firstPlayerWin": 51.3,
+  "deckEndPct": 1,
+  "sec": 249.2
+ },
+ {
+  "name": "2人 strong vs normal",
+  "games": 2000,
+  "rate": {
+   "strong": {
+    "win": 70.7,
+    "seats": 1
+   },
+   "normal": {
+    "win": 29.3,
+    "seats": 1
+   }
+  },
+  "fair": 50,
+  "firstPlayerWin": 53.4,
+  "deckEndPct": 2.6,
+  "sec": 12.1
+ },
+ {
+  "name": "2人 ultra vs normal",
+  "games": 400,
+  "rate": {
+   "ultra": {
+    "win": 74.9,
+    "seats": 1
+   },
+   "normal": {
+    "win": 25.1,
+    "seats": 1
+   }
+  },
+  "fair": 50,
+  "firstPlayerWin": 50.9,
+  "deckEndPct": 1,
+  "sec": 237.5
+ },
+ {
+  "name": "2人 ultra vs strong",
+  "games": 400,
+  "rate": {
+   "ultra": {
+    "win": 64.8,
+    "seats": 1
+   },
+   "strong": {
+    "win": 35.3,
+    "seats": 1
+   }
+  },
+  "fair": 50,
+  "firstPlayerWin": 52.3,
+  "deckEndPct": 0,
+  "sec": 256.7
+ },
+ {
+  "name": "3人 ultra×1 vs strong×2",
+  "games": 300,
+  "rate": {
+   "ultra": {
+    "win": 50,
+    "seats": 1
+   },
+   "strong": {
+    "win": 50,
+    "seats": 2
+   }
+  },
+  "fair": 33.3,
+  "firstPlayerWin": 39.7,
+  "deckEndPct": 0,
+  "sec": 289.7
+ },
+ {
+  "name": "4人 ultra×1 vs strong×3",
+  "games": 240,
+  "rate": {
+   "ultra": {
+    "win": 38.8,
+    "seats": 1
+   },
+   "strong": {
+    "win": 61.3,
+    "seats": 3
+   }
+  },
+  "fair": 25,
+  "firstPlayerWin": 27.1,
+  "deckEndPct": 0,
+  "sec": 311.5
+ },
+ {
+  "name": "5人 ultra×1 vs strong×4",
+  "games": 150,
+  "rate": {
+   "ultra": {
+    "win": 32.7,
+    "seats": 1
+   },
+   "strong": {
+    "win": 67.3,
+    "seats": 4
+   }
+  },
+  "fair": 20,
+  "firstPlayerWin": 23.3,
+  "deckEndPct": 0,
+  "sec": 269.8
+ },
+ {
+  "name": "4人 strong×1 vs normal×3",
+  "games": 1200,
+  "rate": {
+   "strong": {
+    "win": 38,
+    "seats": 1
+   },
+   "normal": {
+    "win": 62,
+    "seats": 3
+   }
+  },
+  "fair": 25,
+  "firstPlayerWin": 26.4,
+  "deckEndPct": 0.1,
+  "sec": 11.8
+ },
+ {
+  "name": "2人 ultra vs strong（ブルーノ式）",
+  "games": 300,
+  "rate": {
+   "ultra": {
+    "win": 64.2,
+    "seats": 1
+   },
+   "strong": {
+    "win": 35.8,
+    "seats": 1
+   }
+  },
+  "fair": 50,
+  "firstPlayerWin": 55.8,
+  "deckEndPct": 0.3,
+  "sec": 191.2
+ },
+ {
+  "name": "2人 ultra vs strong（シャハト式初期配置）",
+  "games": 300,
+  "rate": {
+   "ultra": {
+    "win": 67.7,
+    "seats": 1
+   },
+   "strong": {
+    "win": 32.3,
+    "seats": 1
+   }
+  },
+  "fair": 50,
+  "firstPlayerWin": 53,
+  "deckEndPct": 0.3,
+  "sec": 189.1
+ },
+ {
+  "name": "4人 混成 weak/normal/strong/ultra",
+  "games": 240,
+  "rate": {
+   "weak": {
+    "win": 6.7,
+    "seats": 1
+   },
+   "normal": {
+    "win": 25,
+    "seats": 1
+   },
+   "strong": {
+    "win": 31.3,
+    "seats": 1
+   },
+   "ultra": {
+    "win": 37.1,
+    "seats": 1
+   }
+  },
+  "fair": 25,
+  "firstPlayerWin": 27.1,
+  "deckEndPct": 0,
+  "sec": 306.8
+ },
+ {
+  "name": "2人 strong vs strong（先手の有利）",
+  "games": 3000,
+  "rate": {
+   "strong": {
+    "win": 100,
+    "seats": 2
+   }
+  },
+  "fair": 50,
+  "firstPlayerWin": 53.7,
+  "deckEndPct": 0.8,
+  "sec": 17.2
+ }
+]
